@@ -1,0 +1,10 @@
+
+{
+  "name": "Sudarshan Chakra - Neural IoT Defense Core",
+  "description": "Agentic AI-powered security for smart homes featuring autonomous anomaly detection and physical theft forensics. Includes a specialized Accessibility Layer with bilingual (English/Hindi) voice commands and human-centric analyst oversight.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
